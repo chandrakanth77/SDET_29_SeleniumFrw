@@ -17,11 +17,7 @@ public class OrganizationTest {
 	public void modifyOrgTest() {
 		System.out.println("execute modifyOrgTest");
 	}
-	@Test(groups = "delete")
-	public void modifyContactTest() 
-	{
-		System.out.println("execute deleteTest");
-	}
+	
 	
 		
 
