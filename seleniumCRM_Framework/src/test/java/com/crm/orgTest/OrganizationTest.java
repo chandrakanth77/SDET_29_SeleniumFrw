@@ -18,6 +18,10 @@ public class OrganizationTest {
 		System.out.println("execute modifyOrgTest");
 	}
 	
+	@Test(groups = "gegressionTest")
+	public void modifyOrgTest() {
+		System.out.println("execute modifyOrgTest");
+	}
 	
 		
 
