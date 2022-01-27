@@ -14,12 +14,12 @@ public class OrganizationTest {
 	}
 	
 	@Test(groups = "regressionTest")
-	public void modifyOrgTest() {
+	public void moiifyOrgTest() {
 		System.out.println("execute modifyOrgTest");
 	}
 	
 	@Test(groups = "gegressionTest")
-	public void modifyOrgTest() {
+	public void mldifyOrgTest() {
 		System.out.println("execute modifyOrgTest");
 	}
 	

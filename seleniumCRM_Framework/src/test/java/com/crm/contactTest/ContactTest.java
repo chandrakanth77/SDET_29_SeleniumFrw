@@ -15,12 +15,12 @@ public class ContactTest {
 		
 	}
 	@Test(groups = "regressionTest")
-	public void modifyContactTest() {
+	public void eodifyContactTest() {
 		System.out.println("execute modifyContactTest");
 		
 	}
 	@Test(groups = "hegressionTest")
-	public void modifyContactTest() {
+	public void vodifyContactTest() {
 		System.out.println("execute modifyContactTest");
 		
 	}
