@@ -18,7 +18,10 @@ public class OrganizationTest {
 		System.out.println("execute modifyOrgTest");
 	}
 	@Test(groups = "delete")
-	public void modifyContactTest() {
+	public void modifyContactTest() 
+	{
 		System.out.println("execute deleteTest");
+	}
+		
 
 }
