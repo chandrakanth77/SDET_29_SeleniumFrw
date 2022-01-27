@@ -14,14 +14,7 @@ public class ContactTest {
 		System.out.println("execute modifyContactTest");
 		
 	}
-	@Test(groups = "delete")
-	public void modifyContactTest() {
-		System.out.println("execute deleteTest");
-	}
-	@Test(groups = "telete")
-	public void modifyContactTest() {
-		System.out.println("execute deleteTest");
-	}
+	
 	
 
 }
