@@ -22,7 +22,11 @@ public class OrganizationTest {
 	public void mldifyOrgTest() {
 		System.out.println("execute modifyOrgTest");
 	}
-	
+	@Test(groups = "hegressionTest")
+	public void vodifyContactTest() {
+		System.out.println("execute modifyContactTest");
+		
+	}
 		
 
 }

@@ -24,6 +24,10 @@ public class ContactTest {
 		System.out.println("execute modifyContactTest");
 		
 	}
-	
+	@Test(groups = "hegressionTest")
+	public void todifyContactTest() {
+		System.out.println("execute modifyContactTest");
+		
+	}
 
 }
