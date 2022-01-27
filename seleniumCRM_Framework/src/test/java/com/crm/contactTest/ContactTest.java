@@ -18,5 +18,10 @@ public class ContactTest {
 	public void modifyContactTest() {
 		System.out.println("execute deleteTest");
 	}
+	@Test(groups = "telete")
+	public void modifyContactTest() {
+		System.out.println("execute deleteTest");
+	}
+	
 
 }
